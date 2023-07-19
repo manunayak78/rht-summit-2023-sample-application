@@ -4,7 +4,8 @@ data:
     [
       "https://i.imgflip.com/7jqevq.jpg",
       "https://i.imgflip.com/7jqekl.jpg",
-      "https://i.imgflip.com/7jmwjs.jpg"
+      "https://i.imgflip.com/7jmwjs.jpg",
+      "https://daily.jstor.org/wp-content/uploads/2018/06/soccer_europe_1050x700.jpg"
     ]
 kind: ConfigMap
 metadata:
